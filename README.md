@@ -25,3 +25,8 @@ I have a hardworking and researcher personality. I am someone who has adopted li
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bertugilk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/bertuğ-ilk-172066163)  
 
+## My Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bertugilk&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertugilk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
