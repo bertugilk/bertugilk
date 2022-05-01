@@ -1,6 +1,8 @@
-###  Hi👋, I'm Bertuğ
-![I'm a Computer Engineer from Turkey](https://media-exp1.licdn.com/dms/image/C4D16AQHvmUN9tWt2uQ/profile-displaybackgroundimage-shrink_350_1400/0/1634992165047?e=2147483647&v=beta&t=6Pzit_Zq3DGTT-pVLkWJijad8YPdpWmxUC7AO-6aqqk)
+### Hi there 👋, Hi, I'm Bertuğ
+![I'm a Computer Engineer from Turkey](https://i.pinimg.com/originals/01/2d/fc/012dfc3300856f39ecfad5ca682c1b37.gif)
+
 #### I'm a Computer Engineer from Turkey
+
 I have a hardworking and researcher personality. I am someone who has adopted lifelong learning as a principle and tries to do the job in the best way possible. Artificial intelligence is the field of work that attract my interest and I try to improve myself in these area.
 
 Skills: PYTHON / C++ / C / SQL / Machine Learning / Deep Learning / Computer Vision / Data Science
