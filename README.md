@@ -12,19 +12,12 @@ I have a hardworking and researcher personality. I am someone who has adopted li
 - ⚡ Fun fact: ı doing sports often, reading books, watching movies and spending time with friends. 
 
 ## 🚀 Technical Skills:
-- 🐍 Python
-- 💻 C++
-- 💻 C
-- 💻 SQL
-- 🧠 Machine Learning
-- 🧠 Deep Learning
-- 👀 Computer Vision
-- 💻 Data Science
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,mysql,tensorflow,pytorch)](https://skillicons.dev)
+
 
 ## Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bertugilk)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bertuğ-ilk-172066163/)  
+[![My Skills](https://skillicons.dev/icons?i=github,linkedin)](https://skillicons.dev)
 
 ## My Github Stats
 
