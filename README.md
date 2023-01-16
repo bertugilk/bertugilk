@@ -13,7 +13,7 @@ I have a hardworking and researcher personality. I am someone who has adopted li
 - ⚡ Fun fact: ı doing sports often, reading books, watching movies and spending time with friends. 
 
 ## 🚀 Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,mysql,linux)](https://skillicons.dev)
 
 
 ## Connect with me:
