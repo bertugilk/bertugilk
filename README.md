@@ -1,7 +1,7 @@
 # Hi👋, I'm Bertuğ
 
-## Visitor's Count :eyes:
-![Visitor Count](https://profile-counter.glitch.me/{bertugilk}/count.svg)
+
+
 
 ![I'm a Computer Engineer from Turkey](https://i.pinimg.com/originals/01/2d/fc/012dfc3300856f39ecfad5ca682c1b37.gif)
 
@@ -29,3 +29,6 @@ I have a hardworking and researcher personality. I am someone who has adopted li
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bertugilk&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertugilk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Visitor's Count :eyes:
+![Visitor Count](https://profile-counter.glitch.me/{bertugilk}/count.svg)
