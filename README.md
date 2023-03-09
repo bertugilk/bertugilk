@@ -32,3 +32,5 @@ I have a hardworking and researcher personality. I am someone who has adopted li
 
 ## Visitor's Count :eyes:
 ![Visitor Count](https://profile-counter.glitch.me/{bertugilk}/count.svg)
+
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/bertugilk)
