@@ -1,5 +1,7 @@
 # Hi👋, I'm Bertuğ
 
+![Visitor Count](https://profile-counter.glitch.me/{bertugilk}/count.svg)
+
 ![I'm a Computer Engineer from Turkey](https://i.pinimg.com/originals/01/2d/fc/012dfc3300856f39ecfad5ca682c1b37.gif)
 
 ## I'm a Computer Engineer from Turkey
