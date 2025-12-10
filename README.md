@@ -22,7 +22,7 @@ I have a hardworking and researcher personality. I am someone who has adopted li
 ## Connect with me:
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/bertugilk)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bertu%C4%9F-ilk-172066163/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bertuğ-ilk)
 
 ## My Github Stats
 
