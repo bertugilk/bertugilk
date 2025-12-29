@@ -1,36 +1,68 @@
-# Hi👋, I'm Bertuğ
+<h1 align="center">Hi 👋, I'm Bertuğ</h1>
+<h3 align="center">Computer Engineer | AI & Data Science Enthusiast 🇹🇷</h3>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/01/2d/fc/012dfc3300856f39ecfad5ca682c1b37.gif" width="400"/>
+</p>
 
-
-
-![I'm a Computer Engineer from Turkey](https://i.pinimg.com/originals/01/2d/fc/012dfc3300856f39ecfad5ca682c1b37.gif)
-
-## I'm a Computer Engineer from Turkey
+---
 
 ## 🙋‍♂️ About Me
 
-I have a hardworking and researcher personality. I am someone who has adopted lifelong learning as a principle and tries to do the job in the best way possible. Artificial intelligence is the field of work that attract my interest and I try to improve myself in these area.
+- 🎓 Computer Engineer from **Turkey**
+- 🤖 Passionate about **Artificial Intelligence & Data Science**
+- 📚 Lifelong learner with a researcher mindset
+- 🧠 Focused on building things *correctly and efficiently*
 
-- 🌱 I’m currently learning data science tools 
-- 📫 How to reach me: bertugilk@hotmail.com 
-- ⚡ Fun fact: ı doing sports often, reading books, watching movies and spending time with friends. 
+- 🌱 Currently learning **Data Science tools & ML techniques**
+- ⚡ Fun fact: I regularly do sports, read books, watch movies and spend time with friends
+- 📫 Reach me at: **bertugilk@hotmail.com**
 
-## 🚀 Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,mysql,linux)](https://skillicons.dev)
+---
 
+## 🚀 Technical Skills
 
-## Connect with me:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,mysql,linux&theme=dark" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/bertugilk)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bertuğ-ilk)
+---
 
-## My Github Stats
+## 🤝 Connect with Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bertugilk&theme=dark&show_icons=true)
+<p align="center">
+  <a href="https://github.com/bertugilk">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/bertuğ-ilk">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertugilk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Visitor's Count :eyes:
-![Visitor Count](https://profile-counter.glitch.me/{bertugilk}/count.svg)
+## 📊 GitHub Analytics
 
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/bertugilk)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bertugilk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertugilk&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Visitors & GitHub Impact
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/bertugilk/count.svg" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/bertugilk?style=for-the-badge&logo=github&label=Total%20Stars"/>
+  <img src="https://img.shields.io/github/followers/bertugilk?style=for-the-badge&logo=github&label=Followers"/>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>"Building the future with code & curiosity."</i>
+</p>
