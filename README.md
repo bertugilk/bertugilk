@@ -2,21 +2,25 @@
 <h3 align="center">Computer Engineer | AI & Data Science Enthusiast 🇹🇷</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/01/2d/fc/012dfc3300856f39ecfad5ca682c1b37.gif" width="400"/>
+  <img src="https://i.pinimg.com/originals/01/2d/fc/012dfc3300856f39ecfad5ca682c1b37.gif" width="420" />
+</p>
+
+<p align="center">
+  <i>Turning data into intelligence, curiosity into solutions.</i>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
 - 🎓 Computer Engineer from **Turkey**
-- 🤖 Passionate about **Artificial Intelligence & Data Science**
-- 📚 Lifelong learner with a researcher mindset
-- 🧠 Focused on building things *correctly and efficiently*
+- 🤖 Strong interest in **Artificial Intelligence & Data Science**
+- 🔍 Research-oriented & detail-focused mindset
+- 📚 Lifelong learner, always improving my technical depth
 
-- 🌱 Currently learning **Data Science tools & ML techniques**
-- ⚡ Fun fact: I regularly do sports, read books, watch movies and spend time with friends
-- 📫 Reach me at: **bertugilk@hotmail.com**
+- 🌱 Currently learning **Data Science, Machine Learning & Deep Learning**
+- ⚡ Fun fact: Sports 🏋️, books 📚, movies 🎬 and spending time with friends
+- 📫 Contact: **bertugilk@hotmail.com**
 
 ---
 
@@ -28,41 +32,33 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/bertugilk">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/bertuğ-ilk">
+  <a href="https://www.linkedin.com/in/bertu%C4%9F-ilk">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bertugilk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertugilk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 ## 👀 Profile Visitors & GitHub Impact
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/bertugilk/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=bertugilk&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/bertugilk?style=for-the-badge&logo=github&label=Total%20Stars"/>
-  <img src="https://img.shields.io/github/followers/bertugilk?style=for-the-badge&logo=github&label=Followers"/>
+  <img src="https://img.shields.io/github/followers/bertugilk?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/bertugilk?label=Total%20Stars&style=for-the-badge&logo=github" />
 </p>
 
 ---
 
 <p align="center">
-  💡 <i>"Building the future with code & curiosity."</i>
+  🚀 <b>Focused on building intelligent systems that matter.</b>
 </p>
